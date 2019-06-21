@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/MapShapeTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapShapeTemplate/MainPage.xaml))
 <!-- default file list end -->
 # How to customize the appearance of a map shape element
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4263)**
+<!-- run online end -->
 
 
 <p>This example shows how to customize the visual representation of a map's shape element (<a href="http://documentation.devexpress.com/#Silverlight/clsDevExpressXpfMapMapRectangletopic"><u>MapRectangle</u></a>). </p><p></p><p></p>
